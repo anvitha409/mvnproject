@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.vtu.devops.AppTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-03-03T09:54:11.953Z" hostname="LAB04061" time="0.021">
+  <properties/>
+  <testcase name="testAdd()" classname="com.vtu.devops.AppTest" time="0.021"/>
+  <system-out><![CDATA[Running test: 2+3=5
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
